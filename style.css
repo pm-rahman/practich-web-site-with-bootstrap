@@ -1,0 +1,103 @@
+
+
+
+.btn-primary {
+    color: white;
+    display: inline-block;
+    padding: 5px 22px;
+    font-size: 13px;
+    border-radius: 5px;
+    background-color: #000000;
+    text-decoration: none;
+}
+/* header css */
+header img {
+    height: 46px;
+}
+.header-manu{
+    display: flex;
+    justify-content: center;
+}
+
+/* bannar css */
+.carousel-item{
+    padding-left: 30px;
+    position: relative;
+}
+.carousel-item h3 {
+    font-size: 27px;
+}
+.carousel-item p {
+    margin: 13px 0px 28px 0px;
+}
+.carousel-item img {
+    height: 428px;
+}
+
+
+/* mobile css */
+
+
+.card {
+    padding: 23px 0px;
+    border-radius: 5px;
+    border: 0px;
+    box-shadow: 2px 2px 7px rgba(69,69,69,.2);
+}
+
+.mobile p {
+    width: 75%;
+    margin: auto;
+    padding-bottom: 27px;
+}
+.mobile img {
+    height: 331px;
+    width: 280px;
+    margin: auto;
+}
+.mobile h5 {
+    font-size: 14px;
+}
+
+.leptop img {
+    height: 261px;
+    width: 290px;
+    margin: auto;
+}
+
+/* footer-header */
+
+.footer-header{
+    position: relative;
+}
+.footer-header::after {
+    content: '';
+    position: absolute;
+    top: 32px;
+    left: 47%;
+    width: 67px;
+    height: 3px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.footer img{
+    width: 100%;
+}
+
+.footer-card {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    background-color: #f5f2f2;
+    padding: 33px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba( 69,69,69,.2);
+}
+
+.margin {
+    margin-bottom: 36px;
+}
+
+
+
+
